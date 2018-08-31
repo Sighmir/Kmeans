@@ -2,7 +2,6 @@ import pandas as pd
 from scipy import stats
 from sklearn.cluster import KMeans
 from argparse import ArgumentParser
-from sklearn.decomposition import PCA
 
 def verify_arguments():
     parser = ArgumentParser()
