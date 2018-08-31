@@ -11,3 +11,7 @@ Ex:
 ``` 
 kmeans.py -f animals.csv -d Animal -c "Small,Medium,Big,Two Legs,Four Legs,Hair,Hooves,Mane,Feathers,Hunt,Run,Fly,Swim" -k 2 -o k2.csv
 ```
+
+## Google Sheets
+
+You can see the example data being displayed on this [Google Sheet](https://docs.google.com/spreadsheets/d/14zR0uQ39c-oR8laks_ZKgAw7yzuIsRmo4kvmk7t2Jgg/edit?usp=sharing).
