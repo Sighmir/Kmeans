@@ -5,7 +5,7 @@ Experimenting with Kmeans using IntelPython3
 
 You must run this script with [IntelPython3](https://software.seek.intel.com/python-distribution).
 
-It takes a csv file with data as input and outputs another csv file with your clusters information, the output csv file can be imported in Google Sheets for easiar visualization.
+It takes a csv file as input and outputs another csv file with your clusters data, the output file can be imported in Google Sheets for easiar visualization.
 
 Ex:
 ``` 
